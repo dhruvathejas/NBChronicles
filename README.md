@@ -1,2 +1,2 @@
-NBChronicles
-Race to your heart's content!
+NBChronicles,
+ Race to your heart's content!
